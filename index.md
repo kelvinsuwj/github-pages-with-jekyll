@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Blackstone Fortress Guide for Explorers
 
-I'm glad you are here. I plan to talk about ...
+Tips and tricks to get your explorers inspired. 
